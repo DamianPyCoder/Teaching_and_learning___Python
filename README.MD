@@ -1,4 +1,6 @@
-## 1. Getting started with Python
+# PYTHON LESSONS
+
+## 1. Getting started 
 #### 1.1 - Python Installation
 
 ##

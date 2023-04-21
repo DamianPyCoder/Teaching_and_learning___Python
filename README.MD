@@ -27,7 +27,15 @@
 
 ##
 
-## 6. Games
+## 6. Web scraping Amazon
+
+##
+
+## 7. pandas y matplotlib
+
+##
+
+## 8. Games
 #### 6.1 - Hangman using colorama
 #### 6.2 - Connect 4
 #### 6.3 - Checkers
@@ -47,9 +55,5 @@
 #### 10.2 - Sentiment analysis
 #### 10.3 - Chatbot
 #### 10.4 - Speech recognition and synthesis
-
-##
-
-## 11. Web scraping Amazon
 
 ##

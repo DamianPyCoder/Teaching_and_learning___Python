@@ -27,6 +27,10 @@
 
 ##
 
+## 5. Pillow library
+
+##
+
 ## 6. Web scraping Amazon
 
 ##
@@ -57,3 +61,11 @@
 #### 10.4 - Speech recognition and synthesis
 
 ##
+
+## 11. Machine learning
+#### 11.1 Numpy
+#### 11.2 Pandas
+#### 11.3 Tensorflow
+#### 11.4 Pytorch
+#### 11.5 NLTK
+

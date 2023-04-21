@@ -1,3 +1,5 @@
+![](https://github.com/DamianPyCoder/DamianPyCoder/blob/main/icons/python.png)
+
 # PYTHON LESSONS
 
 ## 1. Getting started 

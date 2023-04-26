@@ -20,7 +20,7 @@
 
 ##
 
-## 4. Data Access Exercises & Big Data
+## 4. Data Access & Big Data
 #### 4.1 - Regex with Python
 #### 4.1 - Web scraping Amazon
 
@@ -46,15 +46,16 @@
 ##
 
 ## 7. Machine learning
-#### 7.1 Numpy
-#### 7.2 Pandas & Matplotlib
-#### 7.3 Tensorflow
-#### 7.4 Pytorch
-#### 7.5 NLTK
-#### 7.6 Pillow library 
+#### 7.1 - Numpy
+#### 7.2 - Pandas & Matplotlib
+#### 7.3 - Tensorflow
+#### 7.4 - Pytorch
+#### 7.5 - NLTK
+#### 7.6 - Pillow library 
 
 ##
 
-## 8. Create api and make calls
+## 8. Create api and call it
+#### 8.1 - ...
 
 

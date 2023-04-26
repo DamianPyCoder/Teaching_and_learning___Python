@@ -6,7 +6,6 @@
 #### 1.1 - Python Installation
 #### 1.2 - Git & Github
 
-
 ##
 
 ## 2. Exercices
@@ -21,53 +20,41 @@
 
 ##
 
-## 4. Data Access Exercises
+## 4. Data Access Exercises & Big Data
+#### 4.1 - Regex with Python
+#### 4.1 - Web scraping Amazon
 
 ##
 
-## 5. Regex with Python
-
-##
-
-## 5. Pillow library
-
-##
-
-## 6. Web scraping Amazon
-
-##
-
-## 7. pandas y matplotlib
-
-##
-
-## 8. Games
-#### 6.1 - Hangman using colorama
-#### 6.2 - Connect 4
-#### 6.3 - Checkers
-#### 6.4 - Chess using tkinter para el tablero
+## 5. Games
+#### 5.1 - Hangman using colorama
+#### 5.2 - Connect 4
+#### 5.3 - Checkers
+#### 5.4 - Chess using tkinter para el tablero
    - Create the dashboard with Tkinter and Canvas
    - Create the pieces
    - Create game logic
+   
+##
+
+## 6. NLP
+#### 6.1 - Text classification
+#### 6.2 - Sentiment analysis
+#### 6.3 - Chatbot
+#### 6.4 - Speech recognition and synthesis
 
 ##
 
-## 9. Create api and make calls
+## 7. Machine learning
+#### 7.1 Numpy
+#### 7.2 Pandas & Matplotlib
+#### 7.3 Tensorflow
+#### 7.4 Pytorch
+#### 7.5 NLTK
+#### 7.6 Pillow library 
 
 ##
 
-## 10. NLP
-#### 10.1 - Text classification
-#### 10.2 - Sentiment analysis
-#### 10.3 - Chatbot
-#### 10.4 - Speech recognition and synthesis
+## 8. Create api and make calls
 
-##
-
-## 11. Machine learning
-#### 11.1 Numpy
-#### 11.2 Pandas
-#### 11.3 Tensorflow
-#### 11.4 Pytorch
-#### 11.5 NLTK
 

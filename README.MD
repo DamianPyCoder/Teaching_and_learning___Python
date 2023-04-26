@@ -4,6 +4,8 @@
 
 ## 1. Getting started 
 #### 1.1 - Python Installation
+#### 1.2 - Git & Github
+
 
 ##
 

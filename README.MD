@@ -27,9 +27,13 @@
 ##
 
 ## 5. Games
-#### 5.1 - Hangman using colorama
-#### 5.2 - Connect 4
+#### 5.1 - TicTacToe using colorama
+![](https://github.com/DamianPyCoder/Python__TEACHING_in_Youtube/blob/main/Games/IMAGES/TRESENRAYA.png)
+#### 5.2 - Hangman 
+![](https://github.com/DamianPyCoder/Python__TEACHING_in_Youtube/blob/main/Games/IMAGES/HANGMAN.png)
 #### 5.3 - Checkers
+![](https://github.com/DamianPyCoder/Python__TEACHING_in_Youtube/blob/main/Games/IMAGES/CHECKERS.png)
+Ç
 #### 5.4 - Chess using tkinter para el tablero
    - Create the dashboard with Tkinter and Canvas
    - Create the pieces

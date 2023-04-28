@@ -6,6 +6,36 @@
 #### 1.1 - Python Installation
 #### 1.2 - Git & Github
 
+- Create a project on GITHUB and copy the link
+
+- Create a folder on your system, open a terminal and situate inside the folder. Attention, in this folder we will put all the code that we want to upload.
+
+- In the terminal type the command ```GIT CLONE``` +"address of the repository"
+
+- To know what state the files are in and see if they are still to be uploaded, we will put in command: 
+```diff 
+GIT STATUS
+```
+
+- In case we want to upload a file we will use the command: ``` GIT ADD ``` "file name"
+
+- If you want to upload ALL the files, the name is replaced by a period: 
+```diff 
+GIT ADD .
+```
+
+- We add a commit that specifies that we have uploaded, for example we will call it First Commit: 
+``` diff
+GIT COMMIT -m "First Commit" 
+```
+
+- We upload the files: 
+```diff 
+GIT PUSH
+```
+
+
+
 ##
 
 ## 2. Exercices

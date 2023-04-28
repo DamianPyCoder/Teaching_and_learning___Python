@@ -4,6 +4,26 @@
 
 ## 1. Getting started 
 #### 1.1 - Python Installation
+
+:computer: Windows
+
+- Go to the official Python website, https://www.python.org/downloads/, and download the latest Python installer for Windows.
+- Run the installer, and select the "Add Python to PATH" option. This will ensure that you can run Python from any directory in the command prompt.
+- Choose the installation directory, and click on "Install Now".
+- Wait for the installation to finish. This may take a few minutes.
+- Once the installation is complete, open the command prompt and type "python" to verify that Python has been installed correctly.
+
+:computer: Linux
+
+- Open a terminal window.
+- Update the package list with the command "sudo apt-get update".
+- Install Python by typing "sudo apt-get install python3" (or "python" if you prefer Python 2).
+- Wait for the installation to finish. This may take a few minutes.
+- Once the installation is complete, type "python3" (or "python" if you installed Python 2) in the terminal window to verify that Python has been installed correctly.
+
+Note: The above instructions assume that you are using a Debian-based Linux distribution such as Ubuntu. If you are using a different distribution, the commands may vary slightly.
+
+
 #### 1.2 - Git & Github
 
 - Create a project on GITHUB and copy the link

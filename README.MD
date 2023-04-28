@@ -89,13 +89,13 @@ Write a program that prompts for information to create a teacher object, creates
 ##
 
 ## 5. Basic games
-#### 5.1 - TicTacToe using colorama
+#### :video_game: [TicTacToe using colorama](https://github.com/DamianPyCoder/Python__TEACHING_in_Youtube/blob/main/Games/TRES_EN_RAYA.py)
 ![](https://github.com/DamianPyCoder/Python__TEACHING_in_Youtube/blob/main/Games/IMAGES/TRESENRAYA.png)
-#### 5.2 - Hangman 
+#### :video_game: [Hangman](https://github.com/DamianPyCoder/Python__TEACHING_in_Youtube/blob/main/Games/HANGMAN.py)
 ![](https://github.com/DamianPyCoder/Python__TEACHING_in_Youtube/blob/main/Games/IMAGES/HANGMAN.png)
-#### 5.3 - Checkers
+#### :video_game: [Checkers](https://github.com/DamianPyCoder/Python__TEACHING_in_Youtube/blob/main/Games/checkers.py)
 ![](https://github.com/DamianPyCoder/Python__TEACHING_in_Youtube/blob/main/Games/IMAGES/CHECKERS.png)
-#### 5.4 - Couples game with Tkinter
+#### :video_game: [Couples game with Tkinter](https://github.com/DamianPyCoder/Python__TEACHING_in_Youtube/blob/main/Games/PAREJAS_TKINTER.py)
 ![](https://github.com/DamianPyCoder/Python__TEACHING_in_Youtube/blob/main/Games/IMAGES/PAREJAS_TK.png)
    
 ##

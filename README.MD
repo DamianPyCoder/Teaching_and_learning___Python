@@ -21,7 +21,11 @@
 - Wait for the installation to finish. This may take a few minutes.
 - Once the installation is complete, type "python3" (or "python" if you installed Python 2) in the terminal window to verify that Python has been installed correctly.
 
-Note: The above instructions assume that you are using a Debian-based Linux distribution such as Ubuntu. If you are using a different distribution, the commands may vary slightly.
+```
+Note: 
+  The above instructions assume that you are using a Debian-based Linux distribution such as Ubuntu.
+  If you are using a different distribution, the commands may vary slightly.
+```
 
 
 #### 1.2 - Git & Github

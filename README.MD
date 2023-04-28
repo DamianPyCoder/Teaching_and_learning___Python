@@ -12,6 +12,9 @@
 #### Basic exercises from exchange variables without auxiliary variable to Rome cipher.
 
 - [x] Ask the user for a number and display on the screen the multiplication table of this number in the format (Number x i = Result...).
+
+:clipboard: [Solved exercise](https://github.com/DamianPyCoder/Python__TEACHING_in_Youtube/blob/main/2_Exercises/taula_mult.py)
+
 - [x] Write a program that asks the user for three numbers and displays the average, the largest and the smallest.
 - [x] Ask the user for 2 numbers and show which one is closest to 100.
 - [x] Calculate the numbers of the Fibonacci series, bearing in mind that a1=1, a2=1 y que an=an-1+an-2.. It asks the user how many numbers to calculate

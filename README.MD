@@ -65,23 +65,23 @@ GIT PUSH
 ## 2. Exercices
 #### Basic exercises from exchange variables without auxiliary variable to Rome cipher.
 
-- [x] Ask the user for a number and display on the screen the multiplication table of this number in the format (Number x i = Result...).
+:blue_book: Ask the user for a number and display on the screen the multiplication table of this number in the format (Number x i = Result...).
 
 - :clipboard: [Solved exercise](https://github.com/DamianPyCoder/Python__TEACHING_in_Youtube/blob/main/2_Exercises/taula_mult.py)
 
-- [x] Write a program that asks the user for three numbers and displays the average, the largest and the smallest.
+:blue_book: Write a program that asks the user for three numbers and displays the average, the largest and the smallest.
 
 - :clipboard: [Solved exercise](https://github.com/DamianPyCoder/Python__TEACHING_in_Youtube/blob/main/2_Exercises/mitjana.py)
 
-- [x] Ask the user for 2 numbers and show which one is closest to 100.
+:blue_book: Ask the user for 2 numbers and show which one is closest to 100.
 
 - :clipboard: [Solved exercise](https://github.com/DamianPyCoder/Python__TEACHING_in_Youtube/blob/main/2_Exercises/aprop100.py)
 
-- [x] Calculate the numbers of the Fibonacci series, bearing in mind that a1=1, a2=1 y que an=an-1+an-2.. It asks the user how many numbers to calculate
+:blue_book: Calculate the numbers of the Fibonacci series, bearing in mind that a1=1, a2=1 y que an=an-1+an-2.. It asks the user how many numbers to calculate
 
 - :clipboard: [Solved exercise](https://github.com/DamianPyCoder/Python__TEACHING_in_Youtube/blob/main/2_Exercises/fibonacci.py)
 
-- [x] Make a program that calculates the area and perimeter of a triangle. Two functions must be defined that calculate the area and the perimeter of the triangle.
+:green_book: Make a program that calculates the area and perimeter of a triangle. Two functions must be defined that calculate the area and the perimeter of the triangle.
 - [x] Write a program that asks for a year and writes whether it is a transfer or not. Remember that leap years are multiples of 4, but multiples of 100 are not, although multiples of 400 are.
 Here are some examples of possible answers: 2012 is a carryover, 2010 is not a carryover, 2000 is a carryover, 1900 is not a carryover.
 - [x] Section radars consist of placing two cameras at two points away from a road to be able to check how long it took the car to travel that section. If the average speed exceeds the maximum speed allowed, we will be able to know (even if we have not seen it) that at some point on the journey it has exceeded this speed.

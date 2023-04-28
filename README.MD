@@ -169,7 +169,7 @@ Write a program that prompts for information to create a teacher object, creates
 #### :video_game: [Couples game with Tkinter](https://github.com/DamianPyCoder/Python__TEACHING_in_Youtube/blob/main/Games/PAREJAS_TKINTER.py)
 ![](https://github.com/DamianPyCoder/Python__TEACHING_in_Youtube/blob/main/Games/IMAGES/PAREJAS_TK.png)
 #### :video_game: [Paint with Tkinter](https://github.com/DamianPyCoder/Python__TEACHING_in_Youtube/blob/main/Games/dibujarConColores.py)
-![](https://github.com/DamianPyCoder/Python__TEACHING_in_Youtube/blob/main/Games/IMAGES/paintPython30.png)
+![](https://github.com/DamianPyCoder/Python__TEACHING_in_Youtube/blob/main/Games/IMAGES/paintPython50.png)
    
 ##
 

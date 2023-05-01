@@ -144,6 +144,13 @@ The program will indicate whether or not these candidates can be hired.
 The Professor class inherits from the Person class and has a subject attribute. It also has a dismiss method that displays a dismissal: "Bye {name} {surnames}. Your subject is {subject}"
 Write a program that prompts for information to create a teacher object, creates the object, and calls the greet and dismiss methods.
 
+##
+
+## 2.1. Advanced exercices
+
+:blue_book: Password generator with libraries like colorama, random and pyperclip.
+
+- :clipboard: [Solved exercise](https://github.com/DamianPyCoder/Python__TEACHING_in_Youtube/blob/main/2_Exercises/generarPasswords.py)
 
 ##
 

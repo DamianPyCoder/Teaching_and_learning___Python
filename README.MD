@@ -151,6 +151,7 @@ Write a program that prompts for information to create a teacher object, creates
 :blue_book: Password generator with libraries like colorama, random and pyperclip.
 
 - :clipboard: [Solved exercise](https://github.com/DamianPyCoder/Python__TEACHING_in_Youtube/blob/main/2_Exercises/generarPasswords.py)
+   :paperclip: [Interesting tools](https://github.com/DamianPyCoder/Python__TEACHING_in_Youtube/blob/main/2_Exercises/jugandoConLibreriasDeTerminal.py)
 
 ##
 

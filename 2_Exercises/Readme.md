@@ -1,5 +1,5 @@
 
-#### Basic exercises from exchange variables without auxiliary variable to Rome cipher.
+# Basic exercises from exchange variables without auxiliary variable to Rome cipher.
 
 :blue_book: Ask the user for a number and display on the screen the multiplication table of this number in the format (Number x i = Result...).
 

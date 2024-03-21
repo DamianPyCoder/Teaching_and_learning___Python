@@ -1,0 +1,14 @@
+from tqdm import tqdm
+import time
+
+# Definir el número total de iteraciones
+total_iterations = 100
+
+# Calcular el número de iteraciones para alcanzar el 68%
+desired_iterations = int(total_iterations * 0.68)
+
+# Iterar con tqdm
+for i in tqdm(range(desired_iterations), total=total_iterations, desc="Progreso"):
+    time.sleep(0.1)  # Simular alguna tarea que se esté realizando
+
+print("Proceso completado.")

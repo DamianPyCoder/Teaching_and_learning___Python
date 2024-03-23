@@ -6,7 +6,7 @@ import numpy as np
 # print("")
 
 # Array multidimensional
-# array_2d = np.array([[1,2,3],[4,5,6],[7,8,9]]) 
+# array_2d = np.array([[1,2,3],[4,5,6],[7,8,9]])
 # print("array multidimensional:")
 # print(array_2d)
 # print("")
@@ -57,3 +57,98 @@ import numpy as np
 
 # coseno_resultado = np.cos(array1)
 # print("Coseno: ",coseno_resultado)
+
+
+
+# array = np.array([0,1,2,3,4,5,6,7,8,9,10])
+# print("Obtener quinto elemento del array: ", array[4])
+# print("Obtener los resultados desde el elemento 3 hasta el 7: ",array[2:6])
+# print("Obtener los elementos pares: ",array[::2])
+
+# array = np.array([1,2,3,4,5,6])
+# cambiar forma del array a una matriz 2x3
+# reshaped_array = array.reshape(2,3)
+# print("Array modificada: ")
+# print(reshaped_array)
+
+# Propiedades 2
+#print("Dimensión del array: ",array.ndim)
+
+# Cambiar tipos de datos
+# float_array = array.astype(float)
+# print("Array casteado a float:")
+# print(float_array)
+
+# Tamaño en bytes de cada elemento
+# print("Tamaño de cada elemento: ",array.itemsize)
+
+# Mínimos y máximos
+# print("Valor mínimo: ",array.min()," y valor máximo: ",array.max())
+
+# Suma y productos de los elementos del array
+# print("Suma de todos los elementos: ", array.sum(), " y multiplicación de los elementos: ", array.prod())
+
+
+
+array = np.array([1,2,3,4,5,6])
+
+# Máscara booleana
+# mask = array > 2
+# selected_elements = array[mask]
+# print("Elementos mayores que dos: ",selected_elements)
+
+# Operaciones estadísticas
+# print("Media: ",array.mean())
+# print("Mediana: ",np.median(array))
+# print("Desviación estandar: ",array.std())
+# print("Varianza: ",array.var())
+
+# Ordenar elementos
+# array.sort()
+# print("Array ordenado: ", array)
+
+# Arrays especiales
+# zeros_array = np.zeros((2,3))
+# print("Array de ceros: ")
+# print(zeros_array)
+# ones_array = np.ones((3,2))
+# print("Arrays de unos: ")
+# print(ones_array)
+
+
+array1 = np.array([1,2,3,4,5,6])
+array2 = np.array([4,5,2,1,8,7])
+
+# Concatenación de arrays
+# verticalmente
+# concatenated_array = np.vstack((array1, array2))
+# print("Arrays concatenados: ")
+# print(concatenated_array)
+# horizontalmente
+# concatenated_array = np.hstack((array1, array2))
+# print(concatenated_array)
+
+# # Encontrar el índice con valores máximos y mínimos
+# print("Índice con valor máximo: ",array2.argmax())
+# print("Índice con valor mínimo: ",array2.argmin())
+
+# Crear secuencia de 0 a 9, con paso de 2
+# sequence = np.arange(0, 10, 2)
+# print("Secuencia númerica equiespaciada: ",sequence)
+
+# sequence = np.linspace(0,1,5)
+# print("Secuencia numérica de valores espaciados uniformemente: ", sequence)
+
+# Funciones álgebra lineal
+# dot_product = np.dot(array1, array2)
+# print("Producto punto entre los dos arrays: ",dot_product)
+
+# Calcular determinante de una matriz
+# matrix = np.array([[1,2],[3,4]])
+# determinant = np.linalg.det(matrix)
+# print("Determinante de la matriz:")
+# print(determinant)
+
+# Invertir array
+# reversed_array = array1[::-1]
+# print("Array invertido: ",reversed_array)

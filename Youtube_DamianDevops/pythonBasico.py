@@ -20,6 +20,6 @@ y = 5
 # print(mayor, menor, igualdad, diferencia)
 
 # BUCLES FOR y WHILE
-frutas = ["manzanas","limones","peras"]
-for i in frutas:
-    
+colores = ["azul","verde","rojo"]
+for i in colores:
+    print(i)

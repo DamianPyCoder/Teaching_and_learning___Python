@@ -193,5 +193,190 @@ import random
 # enteroAlatorio = random.radint(1,10)
 # listaAleatoria = random.sample(range(1,10),2)
 
+# EXPRESIÓN TERNARIA
+# edad = 12
+# if edad >= 18:
+#     print("Es mayor de edad")
+# else:
+#     print("Es menor de edad")
+
+# mensaje = "Mayor de edad" if edad >= 18 else "Menor de edad"
+# print(mensaje)
 
 
+# PASS, CONTINUE y BREAK
+# x = 100
+
+# if x > 66:
+#     pass
+# else:
+#     print("X es menor o igual que 66!")
+# print("")
+
+# for i in range(10):
+#     print(i)
+# else:
+#     print("Bucle completado")
+
+# for i in range(10):
+#     if i == 4:
+#         continue
+#     if i == 9:
+#         break
+#     print(i)
+
+
+# ZIP()
+# nombres = ['Damian','Maria','Luis']
+# edades = [25,28,32] 
+# for nombre, edad in zip(nombres, edades):
+#     print(f"{nombre} tiene {edad} años, ya eres un poco viejo")   
+
+
+# STRINGS REPASO
+# saludo = "hola, Damian"
+# saludoConEspacios = "      Hola, Damián    "
+# saludosPalabras = ["Hola", "Damian"]
+
+# print(saludo.split(","))
+# print(saludoConEspacios.strip())
+# print("-".join(saludosPalabras))
+# print(saludo.startswith("Hola"))
+# print(saludo.endswith("Hola"))
+
+# print(saludo.upper())
+# print(saludo.lower())
+# print(saludo.capitalize())
+# print(saludo.count("a"))
+# print(saludo.find("Damian"))
+# print(saludo.replace("Damian","amigo"))
+# print(saludo.isalnum())
+# print(saludo.isalpha())
+
+
+
+# COMPARAR NÚMEROS / STRINGS
+
+# numero1 = 10
+# numero2 = 10
+# igualQue = numero1 == numero2
+# diferenteQue = numero1 != numero2
+
+# string1 = "rojo"
+# string2 = "azul"
+# igualQue = string1 == string2
+# diferenteQue = string1 != string2
+
+# print(string1 > string2)
+# print(string1 < string2)
+
+
+
+
+# # POO
+# class Vehiculo:
+#     def __init__(self, nombreMarca, ruedas, puertas, consumogasolina):
+#         self.nombreMarca = nombreMarca
+#         self.ruedas = ruedas
+#         self.puertas = puertas
+#         self.consumogasolina = consumogasolina
+#     def acelerar(self):
+#         print("Acelera el vehículo")
+
+
+# class Coche(Vehiculo):
+#     def __init__(self, nombreMarca, ruedas, puertas, consumogasolina, aforo):
+#         super().__init__(nombreMarca, ruedas, puertas, consumogasolina)
+#         self.aforo = aforo
+#     def acelerar(self):
+#         print("El coche está acelerando")
+
+
+# class Moto(Vehiculo):
+#     def __init__(self, nombreMarca, ruedas, puertas, consumogasolina):
+#         super().__init__(nombreMarca, ruedas, puertas, consumogasolina)
+#     # def acelerar(self):
+#     #     print("La moto está acelerando")
+
+
+# # instancias
+# miCoche = Coche("Ferrari", 4, True, 2.5, 2)
+# miMoto = Moto("Suzuki", 2, False, 1.2)
+
+# # print(miCoche.acelerar())
+# # print(miMoto.acelerar())
+
+# # atributos de las instancias
+# print("Coche:")
+# print("Nombre/Marca:", miCoche.nombreMarca)
+# print("Ruedas:", miCoche.ruedas)
+# print("Puertas:", miCoche.puertas)
+# print("Consumo de Gasolina:", miCoche.consumogasolina)
+# print("Aforo:", miCoche.aforo)
+
+# print("\nMoto:")
+# print("Nombre/Marca:", miMoto.nombreMarca)
+# print("Ruedas:", miMoto.ruedas)
+# print("Puertas:", miMoto.puertas)
+# print("Consumo de Gasolina:", miMoto.consumogasolina)
+
+
+# EXCEPCIONES
+# number = 2
+
+# try:
+#     resultado = 10 / number
+#     print(resultado)
+# except ZeroDivisionError:
+#     print("Error: división por cero es imposible")
+# finally:
+#     print("Intento de división completado")
+
+# # resultado = 10 / number
+# # print(resultado)
+
+# print("Hola")
+
+
+
+# ARCHIVOS
+# try:
+#     archivo = open("palabra.txt","r")
+#     contenido = archivo.read()
+#     print(contenido)
+# except FileNotFoundError:
+#     print("Error: archivo no encontrado")
+# finally:
+#     try:
+#         archivo.close()
+#     except:
+#         pass
+
+
+# # try:
+# #     with open("palabra.txt","w")  as archivo:
+# #         archivo.write("casa, ")
+# #         archivo.write("dormitorio")
+# # except IOError:
+# #     print("Error al escribir en el documento")
+
+
+# try:
+#     with open("palabra.txt","a")  as archivo:
+#         archivo.write(", salón, ")
+#         archivo.write("cocina")
+# except IOError:
+#     print("Error al escribir en el documento")
+
+
+# try:
+#     archivo = open("palabra.txt","r")
+#     contenido = archivo.read()
+#     print(contenido)
+# except FileNotFoundError:
+#     print("Error: archivo no encontrado")
+# finally:
+#     try:
+#         archivo.close()
+#     except:
+#         pass
